@@ -1,2 +1,9 @@
-# got-keyboard
-Game of Thrones custom WASD keyboard
+# Game of Thrones WASD Keyboard
+
+![Keyboard](got-keyboard.jpeg)
+
+I'm a huge ASOIAF/GOT fan, so when I started designing a custom WASD keyboard I knew that I would create something with a Game of Thrones theme. I was surprised at how little (almost nothing) I could find on the internet for Game of Thrones vectors. Outside of the major house sigils, I couldn't find anything usable. For many of the symbols, such as the Drowned God, Dothraki, Free Folk, etc., I couldn't even find a design to go off of. So a project that I initially thought would take a few nights to finish balooned into several weeks as I chipped away at creating the vectors in Sketch and Photoshop that I envisioned for my design.
+
+When I did finally order a keyboard with my custom GOT design, WASD was impressively quick and had my keyboard printed and shipped within a day. I will say that after I endured the work and waiting required to design this keyboard, I haven't been so excited to get something since I was a kid anxious to open presents the week before Christmas. I literally took my dog on a walk around our surrounding neighborhoods during lunch to see if I could spot the UPS truck.
+
+Some things that require a lot of work and waiting never live up to expectations, but designing this WASD keyboard definitely did. I enjoy being reminded of GOT every time I look down at my keyboard, and the feel of the mechanical WASD keys is true and natural. My wife is not as pleased with my new keyboard as I am. Don't get me wrong, she is probably a bigger ASOIAF nerd than I am, but the keyboard is super loud. Maybe I shouldn't have chosen the tactile click switches...
