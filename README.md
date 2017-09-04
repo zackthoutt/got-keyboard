@@ -1,6 +1,6 @@
 # Game of Thrones WASD Keyboard
 
-![Keyboard](got-keyboard.jpeg)
+![Keyboard](/images/got-keyboard.jpeg)
 
 I'm a huge ASOIAF/GOT fan, so when I started designing a custom WASD keyboard I knew that I would create something with a Game of Thrones theme. I was surprised at how little (almost nothing) I could find on the internet for Game of Thrones vectors. For many of the symbols, such as the Drowned God, Dothraki, Free Folk, etc., I couldn't even find a design to go off of. So a project that I initially thought would take a few nights to finish balooned into several weeks as I chipped away at creating the vectors in Sketch and Photoshop that I envisioned for my design.
 
@@ -14,3 +14,15 @@ If you're familiar with WASD keyboards and know what type of switches/dampeners 
 
 If you purchase through Etsy I will configure and order the keyboard through WASD and have it shipped directly to you. This is a bit more expensive since it requires work for me to create the order.
 https://www.etsy.com/listing/554724107/game-of-thrones-keyboard
+
+---
+
+# More Images
+
+![Keyboard](/images/got-keyboard-top.jpeg)
+
+![Keyboard](/images/got-keyboard-usb.jpeg)
+
+![Keyboard](/images/got-keyboard-height-back.jpeg)
+
+![Keyboard](/images/got-keyboard-height-front.jpeg)
