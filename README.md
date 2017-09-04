@@ -19,10 +19,10 @@ https://www.etsy.com/listing/554724107/game-of-thrones-keyboard
 
 # More Images
 
-![Keyboard](/images/got-keyboard-top.jpeg)
+![Keyboard](/images/got-keyboard-top.jpg)
 
-![Keyboard](/images/got-keyboard-usb.jpeg)
+![Keyboard](/images/got-keyboard-usb.jpg)
 
-![Keyboard](/images/got-keyboard-height-back.jpeg)
+![Keyboard](/images/got-keyboard-height-back.jpg)
 
-![Keyboard](/images/got-keyboard-height-front.jpeg)
+![Keyboard](/images/got-keyboard-height-front.jpg)
