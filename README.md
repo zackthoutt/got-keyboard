@@ -10,10 +10,13 @@ Some things that require a lot of work and waiting never live up to expectations
 
 # Get This Keyboard
 
-If you're familiar with WASD keyboards and know what type of switches/dampeners you would like, then you can order straight through WASD. The design is published on their Maker platform.
+If you're familiar with WASD keyboards and know what type of switches/dampeners you would like, then you can order straight through WASD. The design is published on their Maker platform:
+
+[WASD Keyboard](http://www.wasdkeyboards.com/index.php/products/make/wasd-v2-104-key-game-of-thrones-custom-mechanical-keyboard.html)
 
 If you purchase through Etsy I will configure and order the keyboard through WASD and have it shipped directly to you. This is a bit more expensive since it requires work for me to create the order.
-https://www.etsy.com/listing/554724107/game-of-thrones-keyboard
+
+[Etsy Listing](https://www.etsy.com/listing/554724107/game-of-thrones-keyboard)
 
 ---
 
